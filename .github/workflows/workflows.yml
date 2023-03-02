@@ -55,4 +55,4 @@ jobs:
       
       - name: funcion bucket
         run: |
-          aws s3 cp funcion.py  s3://bucketdd/funcion.py
+          aws s3 cp funcion.py  s3://buckettdd1/funcion.py
